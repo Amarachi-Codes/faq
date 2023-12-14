@@ -1,0 +1,14 @@
+body{
+    padding: 32px 0;
+}
+.faq-item{
+    padding: 8px 24px;
+
+}
+.faq-item .question{
+font-weight: bold;
+
+}
+.faq-item .answer{
+    display: none;
+}
