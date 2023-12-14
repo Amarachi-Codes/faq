@@ -7,8 +7,15 @@ body{
 }
 .faq-item .question{
 font-weight: bold;
-
 }
 .faq-item .answer{
     display: none;
 }
+.faq-item .question .toggleIcon{
+    padding: 4px 6px;
+    background-color: aliceblue;
+    border: 1px solid gray;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
